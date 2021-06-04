@@ -1,0 +1,2 @@
+Difference between functions and methods - 
+https://stackoverflow.com/questions/2529184/difference-between-method-and-function-in-scala

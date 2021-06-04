@@ -1,0 +1,9 @@
+
+Terminal shortcuts
+
+Ctrl+u - delete a line on terminal
+ctrl+a - to go back to the start
+ctrl+e - to go to the end of line
+ctrl+d - to come out of interactive mode(EOT)
+option+ right arrow - to traverse by skipping a word in right direction 
+option+ left arrow - to traverse by skipping a word in left direction 
